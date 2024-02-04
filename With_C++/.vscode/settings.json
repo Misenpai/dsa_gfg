@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "iostream": "cpp",
+        "functional": "cpp",
+        "utility": "cpp",
+        "cmath": "cpp",
+        "xutility": "cpp",
+        "vector": "cpp",
+        "xlocale": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
